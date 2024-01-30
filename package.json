@@ -1,0 +1,21 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "App 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MV",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-react": "^7.23.3"
+  }
+}
